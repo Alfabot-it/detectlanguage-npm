@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erlapso/detectlanguage_npm.git"
+    "url": "git+https://github.com/Alfabot-it/detectlanguage-npm.git"
   },
   "keywords": [
     "detectlanguage"
@@ -16,7 +16,15 @@
   "author": "Vittorio Banfi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/erlapso/detectlanguage_npm/issues"
+    "url": "https://github.com/Alfabot-it/detectlanguage-npm/issues"
   },
-  "homepage": "https://github.com/erlapso/detectlanguage_npm#readme"
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0",
+    "should": "^9.0.2"
+  },
+  "homepage": "https://github.com/Alfabot-it/detectlanguage-npm#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
 }

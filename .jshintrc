@@ -1,0 +1,15 @@
+{
+  "undef": true,
+  "unused": false,
+  "mocha":true,
+  "node":true,
+  "debug":true,
+  "lastsemic":true,
+  "globalstrict":false,
+  "asi":true,
+  "curly": true,
+  "esversion": 6,
+  "quotmark":false,
+  "devel":true,
+  "predef": [ "should" ]
+}
