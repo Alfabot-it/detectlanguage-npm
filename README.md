@@ -1,10 +1,10 @@
 # detectlanguage.com unofficial node js client
 
-[![Build Status](https://travis-ci.org/shylesh107/9gag-scraper.svg?branch=master)](https://travis-ci.org/shylesh107/9gag-scraper)
+[![Build Status](https://travis-ci.org/Alfabot-it/detectlanguage-npm.svg?branch=master)](https://travis-ci.org/Alfabot-it/detectlanguage-npm)
 
 ## Installation
 
-npm install detectlanguage --save
+npm install detectlanguage-npm --save
 
 ## Usage
 
