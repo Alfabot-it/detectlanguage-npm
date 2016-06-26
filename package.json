@@ -1,5 +1,5 @@
 {
-  "name": "detectlanguage_npm",
+  "name": "detectlanguage-npm",
   "version": "1.0.0",
   "description": "A detectlanguage npm client (unofficial)",
   "main": "index.js",
