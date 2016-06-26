@@ -1,0 +1,22 @@
+{
+  "name": "detectlanguage_npm",
+  "version": "1.0.0",
+  "description": "A detectlanguage npm client (unofficial)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlapso/detectlanguage_npm.git"
+  },
+  "keywords": [
+    "detectlanguage"
+  ],
+  "author": "Vittorio Banfi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erlapso/detectlanguage_npm/issues"
+  },
+  "homepage": "https://github.com/erlapso/detectlanguage_npm#readme"
+}
